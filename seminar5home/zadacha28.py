@@ -17,4 +17,6 @@ def summ(a, b):
 a = int(input("Write a number: "))
 b = int(input("Write a step: "))
 
-print(summ(a,b))
+print(summ(a,b)
+
+      )
